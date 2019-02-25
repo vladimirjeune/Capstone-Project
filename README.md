@@ -1,0 +1,2 @@
+# Capstone-Project
+Prep 4 Week, is an Android app that helps you to keep track of the prep work for your next week’s meals. You can make time in your hectic week for healthy home cooked meals instead of takeout. The trick is doing all the prep work for your weekly meals, on one day a week and saving the prepared ingredients for use when you are ready. Just take a couple hours, one day a week, to prepare and properly store your ingredients. Then, when you are ready to cook, your ingredients are ready to go.
